@@ -2,3 +2,4 @@
 version: "3"
 tasks:
   open: open http://localhost:8080
+  log: tail -f local-log/*.log
