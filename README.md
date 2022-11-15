@@ -1,4 +1,4 @@
-# Hello Nginx
+# Hello [Nginx](https://nginx.org/en/)
 
 ## MacOS M1
 
